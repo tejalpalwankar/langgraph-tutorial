@@ -1,6 +1,3 @@
-Here is your content formatted into a professional, clean `README.md` file. I’ve optimized the tables and structure to ensure it renders perfectly on GitHub.
-
-```markdown
 # 🚀 LangGraph Agentic AI Learning Project
 
 This repository contains hands-on implementations from the **Agentic AI with LangGraph** tutorial. It explores how to build reliable multi-step AI agents using **LangGraph**, **LangChain**, and **Google Gemini**.
